@@ -36,7 +36,10 @@ sudo service mosquitto restart
 echo ""
 echo "> Installing samba ... "
 sudo apt install samba
+
 mkdir /home/sy/labshare
+mkdir /home/sy/archive
+
 sudo cp smb.conf /etc/samba/smb.conf
 sudo service smbd restart
 sudo ufw allow samba
