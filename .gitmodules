@@ -1,3 +1,9 @@
 [submodule "cosy"]
 	path = cosy
 	url = https://github.com/sy-workshop/cosy.git
+[submodule "syhub"]
+	path = syhub
+	url = https://github.com/sy-workshop/syhub
+[submodule "room/circlelab"]
+	path = room/circlelab
+	url = https://github.com/sy-workshop/circlelab

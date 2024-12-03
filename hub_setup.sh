@@ -21,6 +21,9 @@ sudo apt install python3-pip
 sudo apt install lua5.4
 curl https://sh.rustup.rs -sSf | sh -s -- -y
 
+# Install repos
+git submodule update --init --recursive
+
 # Installing cool services
 ## Mosquitto
 echo ""
