@@ -50,7 +50,7 @@ sudo apt install apache2
 
 # Installing syhub
 cd syhub
-sudo sh install.sh
+sh install.sh
 cd ..
 
 echo ""
