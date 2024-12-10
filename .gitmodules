@@ -7,3 +7,9 @@
 [submodule "room/circlelab"]
 	path = room/circlelab
 	url = https://github.com/sy-workshop/circlelab
+[submodule "modules/module_pc_table"]
+	path = modules/module_pc_table
+	url = https://github.com/sy-workshop/module_pc_table
+[submodule "room/cornerlab"]
+	path = room/cornerlab
+	url = https://github.com/sy-workshok/cornerlab

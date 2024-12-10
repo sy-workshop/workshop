@@ -55,7 +55,9 @@ sh install.sh
 cd ..
 
 echo ""
-echo "> Installation done!"
-echo " => Starting configuration prompts: "
+echo "> [HUB-SETUP] INSTALLATION DONE! Thank you."
+echo ""
+echo "> Starting configuration prompts: "
 
+# Prompt new passwords
 sudo smbpasswd -a sy
