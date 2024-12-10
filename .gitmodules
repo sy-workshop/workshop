@@ -12,4 +12,4 @@
 	url = https://github.com/sy-workshop/module_pc_table
 [submodule "room/cornerlab"]
 	path = room/cornerlab
-	url = https://github.com/sy-workshok/cornerlab
+	url = https://github.com/sy-workshop/cornerlab
